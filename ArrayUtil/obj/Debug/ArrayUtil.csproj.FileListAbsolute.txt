@@ -1,0 +1,5 @@
+D:\EPAM\ArrayUtil\ArrayUtil\bin\Debug\ArrayUtil.dll
+D:\EPAM\ArrayUtil\ArrayUtil\bin\Debug\ArrayUtil.pdb
+D:\EPAM\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.csproj.CoreCompileInputs.cache
+D:\EPAM\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.dll
+D:\EPAM\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.pdb

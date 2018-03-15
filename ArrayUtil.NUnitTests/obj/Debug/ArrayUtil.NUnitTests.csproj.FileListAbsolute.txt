@@ -1,0 +1,12 @@
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\ArrayUtil.NUnitTests.dll
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\ArrayUtil.NUnitTests.pdb
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\ArrayUtil.dll
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\nunit.framework.dll
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\ArrayUtil.pdb
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\nunit.framework.pdb
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\bin\Debug\nunit.framework.xml
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\obj\Debug\ArrayUtil.NUnitTests.csprojResolveAssemblyReference.cache
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\obj\Debug\ArrayUtil.NUnitTests.csproj.CoreCompileInputs.cache
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\obj\Debug\ArrayUtil.NUnitTests.csproj.CopyComplete
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\obj\Debug\ArrayUtil.NUnitTests.dll
+D:\EPAM\ArrayUtil\ArrayUtil.NUnitTests\obj\Debug\ArrayUtil.NUnitTests.pdb
